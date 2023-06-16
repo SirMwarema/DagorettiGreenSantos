@@ -1,0 +1,194 @@
+/*
+Template Name:DAGORETTI GREEN SANTOS
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************blog_detail****************/
+#blog_detail{
+ background:#f4f4f4;
+ padding-top:40px;
+ padding-bottom:40px;
+ }
+.blod_d1l1 .gallery_h{
+margin-top:20px;  
+margin-bottom:20px; 
+  }
+.blod_d1l1 .gallery_h hr{
+margin-left:0; 
+  }
+.blod_d1l1 p i{
+ font-size:30px;
+ margin-right:5px;
+ color:#c1e729;
+ vertical-align:middle;
+ }
+.blod_d1l1 ul li{
+display:inline-block;
+padding-left:10px;
+padding-right:10px; 
+border-right:1px solid #ccc; 
+  }
+.blod_d1l1 ul li a:hover{
+ color:#c1e729;
+  }
+.blod_d1l1 ul li i{
+margin-right:5px;  
+  }
+  
+.blod_d1l2{
+background:#fff;
+padding-top:30px;
+padding-bottom:30px; 
+margin-top:30px; 
+  }
+.blod_d1l2r h5 a{
+ margin-left:10px;
+  }
+
+.blod_d1l3{
+ margin-top:20px;
+  }
+.blod_d1l3r h4 a{
+  border-right:1px solid #ccc;
+  padding-right:10px;
+  margin-right:6px;
+  }
+.blod_d1l3r h4  span{
+ font-size:16px; 
+  }
+.blod_d1l3r h5 i{
+margin-right:5px;
+  }
+.blod_d1l3m_1{
+margin-top:20px;
+background:#fff;
+padding-top:20px;
+padding-bottom:20px; 
+  }
+
+.blod_d1l4{
+ margin-top:20px; 
+  }
+.blod_d1l4 .form-control{
+ margin-top:15px; 
+ height:45px;
+ border-radius:0;
+ font-size:16px;
+  }
+.blod_d1l4 .form_1{
+height:150px; 
+ }
+.blod_d1l4 p{
+margin-top:20px;
+ }
+.blod_d1r1 .btn-primary{
+   background:#c1e729;
+   border:1px solid #c1e729;
+   color:#000;
+   }
+.blod_d1r1 .form-control{
+height:50px; 
+border-radius:0;
+font-size:16px; 
+  }
+.blod_d1r1 .btn{
+padding:14px 20px;
+border-radius:0;
+background:#c1e729;
+border-color: #c1e729;
+color:#000;
+  }
+.blod_d1r1 .btn:hover{
+ background:#000;
+ border-color:#000; 
+ color:#fff;
+  }
+.blod_d1r1 .gallery_h{
+ margin-top:20px; 
+  }
+.blod_d1r .gallery_h hr{
+margin-left:0;
+width:15%;
+margin-top:10px;
+margin-bottom:10px;
+  }
+.blod_d1r1 img{
+margin-top:10px;  
+  }
+.blod_d1r2 ul li a{
+  background:#fff;
+  }
+.blod_d1r2{
+margin-top:10px; 
+ }
+.blod_d1r3{
+margin-top:15px; 
+ }
+.blod_d1r3_ir h6 i{
+ margin-right:5px; 
+  }
+.blod_d1r3_i{
+margin-top:15px;
+border-bottom:1px solid #ddd;
+padding-bottom:15px; 
+ }
+.blod_d1r4 ul li a i{
+ margin-right:5px;
+ font-size:12px;
+ }
+.blod_d1r4 ul li{
+font-size:16px;
+border-bottom:1px solid #ddd;
+margin-bottom:10px;
+padding-bottom:10px;
+ }
+.blod_d1r5 ul li{
+ display:inline-block;
+ font-size:16px; 
+  }
+.blod_d1r5 ul li a{
+display:block;
+background:#fff;
+margin:0px 5px  8px 0px;
+padding:5px 10px; 
+ }
+/*********************blog_detail_end****************/
+
+
+@media screen and (max-width : 767px){
+#blog_detail{
+  text-align:center;
+  }
+#blog_detail hr{
+ margin-left:auto;
+ }
+.blod_d1l2l {
+margin-bottom:10px;  
+  }
+.blod_d1l3l {
+ margin-bottom:10px;
+ margin-top:10px;  
+ }
+.blod_d1r {
+margin-top:20px; 
+ }
+.blod_d1r3_ir{
+ margin-top:10px;
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+
+ }
+ @media (min-width:992px) and (max-width:1200px) {
+ 
+
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+

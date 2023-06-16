@@ -1,0 +1,59 @@
+/*
+Template Name:DAGORETTI GREEN SANTOS
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************blog****************/ 
+#blog_page{
+padding-top:20px;
+padding-bottom:40px;
+background:#f4f4f4;  
+  }
+.blog_page_1i img:hover{
+ opacity:0.8;
+ }
+.blog_page_1ii ul li{
+display:inline-block;
+padding-right:10px; 
+font-size:16px;
+ }
+.blog_page_1ii ul li i{
+margin-right:5px; 
+ }
+.blog_page_1ii{
+background:#fff;
+padding:20px 15px; 
+ }
+.blog_page_1ii a:hover{
+  color:#999;
+  }
+.blog_page_1{
+margin-top:20px;  
+  }
+/*********************blog_end****************/
+
+
+@media screen and (max-width : 767px){
+.blog_page_1i {
+ text-align:center;
+ margin-bottom:10px;
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.blog_page_1ii h3{
+ font-size:24px; 
+  }
+ }
+ @media (min-width:992px) and (max-width:1200px) {
+ 
+
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+

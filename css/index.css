@@ -1,0 +1,416 @@
+/*
+Template Name:DAGORETTI GREEN SANTOS
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************center_home****************/
+
+/* Indicators list style */
+.article-slide .carousel-indicators {
+    bottom: 0;
+    left: 0;
+    margin-left: 75px;
+    width: 90%;
+}
+/* Indicators list style */
+.article-slide .carousel-indicators li {
+    border: medium none;
+    border-radius: 0;
+    float: left;
+    height: 150px;
+    margin-bottom: 5px;
+    margin-left: 0;
+    margin-right: 20px !important;
+    margin-top: 0;
+    width: 15%;
+}
+/* Indicators images style */
+.article-slide .carousel-indicators img {
+    border: 5px solid #FFFFFF;
+    float: left;
+    height: 150px;
+    left: 0;
+    width: 100%;
+}
+/* Indicators active image style */
+.article-slide .carousel-indicators .active img {
+    border: 5px solid #c1e729;
+    opacity: 0.7;
+}
+
+.center_home_m{
+ position:relative; 
+  }
+.center_home_mi{
+text-align:center;
+position:absolute;
+width:100%;
+top:0;
+padding-top:11%;
+background:#0006;
+height:100%;
+  }
+.center_home_mi h1{
+font-size:60px;
+color:#fff;  
+  }
+.center_home_mi p{
+color:#eee; 
+font-size:18px; 
+  }
+.center_home_mi h5{
+display:inline-block;
+margin-left:5px;
+margin-right:5px; 
+  }
+/*********************center_home_end****************/
+
+/*********************review_home****************/
+#review_home{
+ padding-top:40px;
+ padding-bottom:40px; 
+  }
+.progress{
+ height:12px; 
+ border-radius:0;
+ margin-bottom:0;
+ margin-top:10px;
+  }
+.progress-bar-success{
+  background:#c1e729;
+  }
+.review_home_1li{
+ margin-top:15px; 
+  }
+  
+#review_home_l{
+ padding-top:40px;
+ padding-bottom:270px;
+ background:#f4f4f4; 
+  }
+#review_home_l h5{
+display:inline-block;
+margin-right:10px; 
+ } 
+/*********************review_home_end****************/
+
+/*********************achieve****************/
+#achieve{
+ padding-top:40px;
+ padding-bottom:40px;
+ background:#f4f4f4; 
+  }
+.achieve_1mi1 span i{
+ font-size:60px;
+ }
+.achieve_1m{
+ position:relative; 
+  }
+.achieve_1mi1{
+ position:absolute;
+ top:0; 
+ background:#0000008a;
+ height:100%;
+ padding-top:13%;
+ padding-left:10px;
+ padding-right:10px;
+ display:none;
+ width:100%;
+  }
+.achieve_1m:hover .achieve_1mi1{
+display:block;
+  }
+/*********************achieve_end****************/
+
+/*********************gallery_home****************/
+#gallery_home{
+padding-top:40px;  
+  }
+#gallery_home .container{
+padding:0;
+width:100%;  
+  }
+#gallery_home .row{
+margin:0;
+  }
+#gallery_home .achieve_1mi1{
+ padding-top:30%;
+ }
+/*********************gallery_home_end****************/
+
+/*********************players****************/
+#players{
+padding-top:40px;
+padding-bottom:40px;  
+  }
+/*********************players_end****************/
+
+/*********************strategy****************/
+#strategy{
+ margin-top:-218px; 
+ padding-bottom:30px;
+  }
+.clickable
+{
+    cursor: pointer;
+}
+.panel-title{
+ font-size:22px;
+ font-weight:bold; 
+  }
+.panel-title i{
+margin-right:5px;
+  }
+.clickable .glyphicon
+{
+    background: rgba(0, 0, 0, 0.15);
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 4px;
+}
+
+.panel-heading span
+{
+    margin-top: -23px;
+    font-size: 15px;
+    margin-right: -9px;
+}
+a.clickable { color: inherit; }
+a.clickable:hover { text-decoration:none; }
+
+.panel-success{
+ border-color:#c1e729;
+  }
+.panel-success>.panel-heading{
+ background: #c1e729; 
+ color:#000;
+ border-color:#c1e729;
+ padding:20px 30px;
+  }
+.panel-collapsed{
+  background:#f4f4f4!important;
+  }
+.panel-body{
+padding-bottom:25px;  
+  }
+/*********************strategy_end****************/
+
+/*********************league****************/
+#league{
+ background-image: url(../img/29.jpg);
+ background-attachment:fixed;   
+  }
+.league_m{
+  padding-top:60px;
+  padding-bottom:50px;
+  background:#000000ad;
+  }
+.league_1{
+ text-align:center;
+ }
+.league_1 h4{
+color:#fff; 
+margin-top:20px; 
+  }
+.league_1 h4 span{
+color:#c1e729; 
+  }
+.league_1 p{
+color:#fff;  
+  }
+/*********************league_end****************/
+
+/*********************counting****************/
+#counting{
+padding-top:50px;
+padding-bottom:50px;  
+  }
+.counting_1 span{
+  font-size:50px;
+  color:#c1e729;
+  }
+/*********************counting_end****************/
+
+/*********************club****************/
+#club{
+  background:#f4f4f4;
+  padding-top:40px;
+  padding-bottom:40px;
+  }
+#club .achieve_1mi1{
+ padding-top:22%;
+ }
+.club_i span{
+font-size:20px;
+display:block;
+margin-top:15px;
+}
+/*********************club_end****************/
+
+/*********************signup****************/
+#signup{
+ padding-top:50px;
+ padding-bottom:50px; 
+  }
+.signup_1 .form-control{
+height:50px; 
+border-radius:0;
+font-size:16px; 
+  }
+.signup_1 .btn{
+padding:14px 20px;
+border-radius:0;
+background:#c1e729;
+border-color: #c1e729;
+color:#000;
+  }
+.signup_1 .btn:hover{
+ background:#000;
+ border-color:#000; 
+ color:#fff;
+  }
+.signup_1 .input-group{
+ margin-top:15px;
+ width:50%;
+ margin-left:auto;
+ margin-right:auto; 
+  }
+/*********************signup_end****************/
+@media screen and (max-width : 767px){
+.article-slide .carousel-indicators{
+margin-left:5px;
+width:99%;
+  }
+.article-slide .carousel-indicators li{
+ width:14.9%;
+ height:50px; 
+ margin-right:5px!important;
+  }
+.article-slide .carousel-indicators img{
+ height:50px;  
+  }
+.center_home .cont-slider img{
+ min-height:400px;
+  }
+.center_home_mi {
+ padding-top:10px;
+ padding-left:10px;
+ padding-right:10px; 
+  }
+.center_home_mi h1{
+  font-size:35px;
+  }
+.center_home_mi .button{
+ padding: 10px 12px;
+ }
+.center_home_mi .button_1{
+ padding: 10px 12px; 
+ }
+
+.review_home_1l h2{
+ text-align:center;
+  }
+.review_home_1l p{
+ text-align:center;
+  }
+.review_home_1l{
+margin-top:15px;  
+  }
+.achieve_1mi img{
+min-height:360px; 
+ }
+#gallery_home .achieve_1mi img{
+ min-height:280px;
+ }
+.players_1i{
+margin-bottom:15px; 
+ }
+ 
+.review_home_1l .button{
+ padding: 8px;
+ }
+.review_home_1l .button_1{
+ padding: 8px; 
+ }
+#review_home_l h5{
+margin-right:5px; 
+ }
+.review_home_1r{
+margin-top:15px; 
+ }
+.panel-body{
+ text-align:center;
+ }
+.league_1i{
+margin-bottom:15px; 
+ }
+.counting_1{
+margin-bottom:10px;
+ }
+#review_home_l{
+ text-align:center; 
+  }
+.club_i{
+margin-bottom:10px;  
+  }
+.signup_1 .input-group{
+width:80%;  
+  }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.center_home .cont-slider img{
+ min-height:600px;
+  }
+.article-slide .carousel-indicators{
+  margin-left:60px;
+  width:90%;
+  }
+.article-slide .carousel-indicators li{
+ width:13%;
+ }
+.achieve_1mi img{
+min-height:360px; 
+ }
+#gallery_home .achieve_1mi img{
+ min-height:280px;
+ }
+#club .achieve_1mi img{
+ min-height:200px;
+ }
+#club .button_1{
+  padding:8px;
+  }
+#club .button{
+  padding:8px;
+  }
+ }
+ @media (min-width:992px) and (max-width:1200px) {
+ .center_home .cont-slider img{
+ min-height:600px;
+  }
+.article-slide .carousel-indicators{
+  margin-left:60px;
+  width:90%;
+  }
+.article-slide .carousel-indicators li{
+ width:14.2%;
+ }
+#achieve .achieve_1mi img{
+min-height:360px;  
+ }
+#club .button_1{
+  padding:10px 20px;
+  }
+#club .button{
+  padding:10px 20px;
+  }
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+
