@@ -1,0 +1,95 @@
+/*
+Template Name:DAGORETTI GREEN SANTOS
+File: Layout CSS
+Author: Templates On Web
+Author URI: http://templateonweb.com/
+Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152">Website Template Licence</a>
+*/
+/*********************about****************/ 
+.center_about{
+ margin-top:53px;
+ background-image: url();
+ }
+
+#about_page{
+ padding-top:40px;
+ padding-bottom:40px; 
+  }
+
+.league_m{
+  padding-top:50px;
+  padding-bottom:40px;
+  background:#f4f4f4;
+  }
+.league_1{
+ text-align:center;
+ margin-top:20px;
+ }
+.league_1 h4{
+margin-top:20px; 
+  }
+.league_1 h4 span{
+color:#c1e729; 
+  }
+
+#story{
+ padding-top:40px;
+ padding-bottom:40px; 
+  }
+.story_1 img{
+margin-top:20px;  
+  }
+.contact_ab_1li h5 i{
+margin-right:5px;
+font-size:22px; 
+vertical-align:middle; 
+  }
+.contact_ab_1li{
+margin-top:15px;  
+  }
+.contact_ab_1l{
+padding-top:40px;  
+  }
+/*********************about_end****************/
+
+
+@media screen and (max-width : 767px){
+.center_about{
+ margin-top:0; 
+  }
+#about_page{
+ text-align:center; 
+  }
+.league_1i {
+ margin-bottom:10px;
+ }
+.story_1 {
+ text-align:center;
+ }
+#contact_ab{
+ text-align:center;
+ }
+.contact_ab_1r {
+margin-top:15px; 
+ }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+.contact_ab_1li h5 i{
+display:none;
+ }
+.contact_ab_1li h5{
+ font-size:14px; 
+  }
+ }
+ @media (min-width:992px) and (max-width:1200px) {
+ .contact_ab_1li h5 i{
+display:none;
+ }
+ }
+@media (min-width:1201px) and (max-width:1350px) {
+
+ }
+
+
+
